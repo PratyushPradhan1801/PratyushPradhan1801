@@ -1,6 +1,6 @@
 # Hi, I'm Pratyush Pradhan 
 
-### Business Analytics & Finance | Python | Power BI | Excel
+### Business Analytics & Finance | Python | Power BI | Excel | Business Intelligence
 
 I'm a BBA student at IIM Bangalore interested in **Business Analytics, Finance, and data-driven decision-making**.
 
