@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Pratyush Pradhan 
 
-<!--
-**PratyushPradhan1801/PratyushPradhan1801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Business Analytics & Finance | Python | Power BI | Excel
 
-Here are some ideas to get you started:
+I'm a BBA student at IIM Bangalore interested in **Business Analytics, Finance, and data-driven decision-making**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy analysing business problems, working with data, and turning information into actionable insights.
+
+### Skills
+
+- **Analytics:** Python, Pandas, Data Analysis, Data Cleaning
+- **BI & Visualization:** Power BI, Power Query, Excel
+- **Business:** Business Analytics, Financial Analysis, Business Strategy
+
+### Featured Projects
+
+**MedSpa Customer Segmentation & Marketing Audit — KPMG OJT**  
+Python • K-Means • Power BI • Customer Segmentation
+
+**Social Media Data Analysis & Cleaning — KPMG OJT**  
+Python • Pandas • Data Cleaning • Data Visualization
+
+**Last Mile — Retail & Business Simulation**  
+Live retail experience • Sales • Marketing • Customer Engagement
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/pratyush-pradhan1/)
